@@ -8,10 +8,7 @@ The agent interacts with the environment, learns an optimal policy through Q-lea
 To run this project, the following is required:
 
 - Python 3.6+
-- Required libraries (install using `pip`):
-
-```pip install gymnasium[toy_text] imageio numpy opencv-python
-```
+- Required libraries - listed in the notebook
 
 ## 🚀 Project Overview 
 
